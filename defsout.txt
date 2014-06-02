@@ -2,7 +2,7 @@
  
 bibliography
 
- [1;37mNoun[0m
+ Noun
  1: a list of writings with time and place of publication (such
     as the writings of a single author or the works referred
     to in preparing a document etc.)
@@ -11,22 +11,22 @@ bibliography
  
 context
 
- [1;37mNoun[0m
+ Noun
  1: discourse that surrounds a language unit and helps to
-    determine its interpretation [syn: {linguistic [1;37mcontext[0m},
-    {[1;37mcontext[0m of use}]
+    determine its interpretation [syn: {linguistic context},
+    {context of use}]
  2: the set of facts or circumstances that surround a situation
-    or event; "the historical [1;37mcontext[0m" [syn: {circumstance}]
+    or event; "the historical context" [syn: {circumstance}]
 
  
  
 drama
 
- [1;37mNoun[0m
- 1: a [1;37mdrama[0mtic work intended for performance by actors on a
+ Noun
+ 1: a dramatic work intended for performance by actors on a
     stage; "he wrote several plays but only one was produced
-    on Broadway" [syn: {play}, {[1;37mdrama[0mtic play}]
- 2: an episode that is turbulent or highly emotional [syn: {[1;37mdrama[0mtic
+    on Broadway" [syn: {play}, {dramatic play}]
+ 2: an episode that is turbulent or highly emotional [syn: {dramatic
     event}]
  3: the literary genre of works intended for the theater
  4: the quality of being arresting or highly emotional
@@ -35,60 +35,60 @@ drama
  
 figurative
 
- [1;37mAdjective[0m
+ Adjective
  1: (used of the meanings of words or text) not literal; using
-    figures of speech; "[1;37mfigurative[0m language" [syn: {nonliteral}]
+    figures of speech; "figurative language" [syn: {nonliteral}]
     [ant: {literal}]
  2: consisting of or forming human or animal figures; "a figural
-    design"; "the [1;37mfigurative[0m art of the humanistic tradition"-
+    design"; "the figurative art of the humanistic tradition"-
     Herbert Read [syn: {figural}]
 
  
  
 language
 
- [1;37mNoun[0m
+ Noun
  1: a systematic means of communicating by the use of sounds or
-    conventional symbols; "he taught foreign [1;37mlanguage[0ms";
-    "the [1;37mlanguage[0m introduced is standard throughout the
+    conventional symbols; "he taught foreign languages";
+    "the language introduced is standard throughout the
     text"; "the speed with which a program can be executed
-    depends on the [1;37mlanguage[0m in which it is written" [syn: {linguistic
+    depends on the language in which it is written" [syn: {linguistic
     communication}]
- 2: ([1;37mlanguage[0m) communication by word of mouth; "his speech was
-    garbled"; "he uttered harsh [1;37mlanguage[0m"; "he recorded the
-    spoken [1;37mlanguage[0m of the streets" [syn: {speech}, {speech
-    communication}, {spoken communication}, {spoken [1;37mlanguage[0m},
+ 2: (language) communication by word of mouth; "his speech was
+    garbled"; "he uttered harsh language"; "he recorded the
+    spoken language of the streets" [syn: {speech}, {speech
+    communication}, {spoken communication}, {spoken language},
     {voice communication}, {oral communication}]
  3: a system of words used in a particular discipline; "legal
-    terminology"; "the [1;37mlanguage[0m of sociology" [syn: {terminology},
+    terminology"; "the language of sociology" [syn: {terminology},
     {nomenclature}]
  4: the cognitive processes involved in producing and
     understanding linguistic communication; "he didn't have
-    the [1;37mlanguage[0m to express his feelings" [syn: {linguistic
+    the language to express his feelings" [syn: {linguistic
     process}]
  5: the mental faculty or power of vocal communication;
-    "[1;37mlanguage[0m sets homo sapiens apart from all other animals"
+    "language sets homo sapiens apart from all other animals"
     [syn: {speech}]
  6: the text of a popular song or musical-comedy number; "his
     compositions always started with the lyrics"; "he wrote
-    both words and music"; "the song uses colloquial [1;37mlanguage[0m"
+    both words and music"; "the song uses colloquial language"
     [syn: {lyric}, {words}]
 
  
  
 interpretation
 
- [1;37mNoun[0m
+ Noun
  1: a mental representation of the meaning or significance of
     something [syn: {reading}, {version}]
  2: the act of interpreting something as expressed in an
     artistic performance; "her rendition of Milton's verse was
     extraordinarily moving" [syn: {rendition}, {rendering}]
  3: an explanation that results from interpreting something;
-    "the report included his [1;37minterpretation[0m of the forensic
+    "the report included his interpretation of the forensic
     evidence"
  4: an explanation of something that is not immediately obvious;
-    "the edict was subject to many [1;37minterpretation[0ms"; "he
+    "the edict was subject to many interpretations"; "he
     annoyed us with his interpreting of parables"; "often
     imitations are extended to provide a more accurate
     rendition of the child's intended meaning" [syn: {interpreting},
@@ -101,69 +101,69 @@ metacognition
  
 poetic
 
- [1;37mAdjective[0m
- 1: of or relating to poetry; "[1;37mpoetic[0m works"; "a [1;37mpoetic[0m romance"
-    [syn: {[1;37mpoetic[0mal}]
+ Adjective
+ 1: of or relating to poetry; "poetic works"; "a poetic romance"
+    [syn: {poetical}]
  2: characterized by romantic imagery; "Turner's vision of the
-    rainbow...was [1;37mpoetic[0m"
- 3: of or relating to poets; "[1;37mpoetic[0m insight"
- 4: characteristic of or befitting poetry; "[1;37mpoetic[0m diction"
-    [syn: {[1;37mpoetic[0mal}]
+    rainbow...was poetic"
+ 3: of or relating to poets; "poetic insight"
+ 4: characteristic of or befitting poetry; "poetic diction"
+    [syn: {poetical}]
 
  
  
 structure
 
- [1;37mNoun[0m
+ Noun
  1: a thing constructed; a complex construction or entity; "the
-    [1;37mstructure[0m consisted of a series of arches"; "she wore
+    structure consisted of a series of arches"; "she wore
     her hair in an amazing construction of whirls and
     ribbons" [syn: {construction}]
  2: the manner of construction of something and the arrangement
-    of its parts; "artists must study the [1;37mstructure[0m of the
-    human body"; "the [1;37mstructure[0m of the benzene molecule"
+    of its parts; "artists must study the structure of the
+    human body"; "the structure of the benzene molecule"
  3: the complex composition of knowledge as elements and their
-    combinations; "his lectures have no [1;37mstructure[0m"
- 4: a particular complex anatomical [1;37mstructure[0m; "he has good bone
-    [1;37mstructure[0m" [syn: {anatomical [1;37mstructure[0m}, {complex body
-    part}, {bodily [1;37mstructure[0m}, {body [1;37mstructure[0m}]
+    combinations; "his lectures have no structure"
+ 4: a particular complex anatomical structure; "he has good bone
+    structure" [syn: {anatomical structure}, {complex body
+    part}, {bodily structure}, {body structure}]
  5: the people in a society considered as a system organized by
     a characteristic pattern of relationships; "the social
     organization of England and America is very different";
-    "sociologists have studied the changing [1;37mstructure[0m of the
+    "sociologists have studied the changing structure of the
     family" [syn: {social organization}, {social organisation},
-    {social [1;37mstructure[0m}, {social system}]
- [1;37mVerb[0m
- 1: give a [1;37mstructure[0m to; "I need to [1;37mstructure[0m my days"
+    {social structure}, {social system}]
+ Verb
+ 1: give a structure to; "I need to structure my days"
 
  
  
 theatrical
 
- [1;37mNoun[0m
- 1: a performance of play [syn: {[1;37mtheatrical[0m performance}, {representation},
+ Noun
+ 1: a performance of play [syn: {theatrical performance}, {representation},
     {histrionics}]
 
- [1;37mAdjective[0m
+ Adjective
  1: of or relating to the theater
  2: suited to or characteristic of the stage or theater; "a
-    [1;37mtheatrical[0m pose"; "one of the most [1;37mtheatrical[0m figures in
-    public life" [ant: {un[1;37mtheatrical[0m}]
+    theatrical pose"; "one of the most theatrical figures in
+    public life" [ant: {untheatrical}]
 
  
  
 elements
 
- [1;37mNoun[0m
+ Noun
  1: violent or severe weather (viewed as caused by the action of
-    the four [1;37melements[0m); "they felt the full fury of the
-    [1;37melements[0m"
+    the four elements); "they felt the full fury of the
+    elements"
 
  
  
 tragedy
 
- [1;37mNoun[0m
+ Noun
  1: an event resulting in great loss and misfortune; "the whole
     city was affected by the irremediable calamity"; "the
     earthquake was a disaster" [syn: {calamity}, {catastrophe},
@@ -175,7 +175,7 @@ tragedy
  
 diction
 
- [1;37mNoun[0m
+ Noun
  1: the articulation of speech regarded from the point of view
     of its intelligibility to the audience [syn: {enunciation}]
  2: the manner in which something is expressed in words; "use
@@ -186,94 +186,94 @@ diction
  
 allusion
 
- [1;37mNoun[0m
+ Noun
  1: passing reference or indirect mention
 
  
  
 anaphora
 
- [1;37mNoun[0m
+ Noun
  1: using a pronoun or other pro-word instead of repeating a
     word
  2: repetition of a word or phrase as the beginning of
-    successive clauses [syn: {ep[1;37manaphora[0m}]
+    successive clauses [syn: {epanaphora}]
 
  
  
 autobiography
 
- [1;37mNoun[0m
+ Noun
  1: a biography of yourself
 
  
  
 character
 
- [1;37mNoun[0m
+ Noun
  1: an imaginary person represented in a work of fiction (play
-    or film or story); "she is the main [1;37mcharacter[0m in the
-    novel" [syn: {fictional [1;37mcharacter[0m}, {fictitious
-    [1;37mcharacter[0m}]
- 2: a [1;37mcharacter[0mistic property that defines the apparent
+    or film or story); "she is the main character in the
+    novel" [syn: {fictional character}, {fictitious
+    character}]
+ 2: a characteristic property that defines the apparent
     individual nature of something; "each town has a quality
-    all its own"; "the radical [1;37mcharacter[0m of our demands" [syn:
+    all its own"; "the radical character of our demands" [syn:
     {quality}, {lineament}]
  3: the inherent complex of attributes that determine a persons
     moral and ethical actions and reactions; "education has
-    for its object the formation of [1;37mcharacter[0m"- Herbert
+    for its object the formation of character"- Herbert
     Spencer [syn: {fiber}, {fibre}]
  4: an actor's portrayal of someone in a play; "she played the
     part of Desdemona" [syn: {role}, {theatrical role}, {part},
     {persona}]
  5: a person of a specified kind (usually with many
-    eccentricities); "a real [1;37mcharacter[0m"; "a strange
-    [1;37mcharacter[0m"; "a friendly eccentric"; "the capable type"; "a
+    eccentricities); "a real character"; "a strange
+    character"; "a friendly eccentric"; "the capable type"; "a
     mental case" [syn: {eccentric}, {type}, {case}]
- 6: good repute; "he is a man of [1;37mcharacter[0m"
+ 6: good repute; "he is a man of character"
  7: a formal recommendation by a former employer to a potential
     future employer describing the person's qualifications and
-    dependability; "requests for [1;37mcharacter[0m references are all
-    to often answered evasively" [syn: {reference}, {[1;37mcharacter[0m
+    dependability; "requests for character references are all
+    to often answered evasively" [syn: {reference}, {character
     reference}]
  8: a written symbol that is used to represent speech; "the
-    Greek alphabet has 24 [1;37mcharacter[0ms" [syn: {grapheme}, {graphic
+    Greek alphabet has 24 characters" [syn: {grapheme}, {graphic
     symbol}]
 
- [1;37mVerb[0m
- 1: engrave or inscribe [1;37mcharacter[0ms on
+ Verb
+ 1: engrave or inscribe characters on
 
  
  
 foil
 
- [1;37mNoun[0m
+ Noun
  1: a piece of thin and flexible sheet metal; "the photographic
-    film was wrapped in [1;37mfoil[0m"
+    film was wrapped in foil"
  2: anything that serves by contrast to call attention to
     another thing's good qualities; "pretty girls like plain
-    friends as [1;37mfoil[0ms" [syn: {enhancer}]
+    friends as foils" [syn: {enhancer}]
  3: a device consisting of a flat or curved piece (as a metal
     plate) so that its surface reacts to the water it is
-    passing through; "the fins of a fish act as hydro[1;37mfoil[0ms"
-    [syn: {hydro[1;37mfoil[0m}]
+    passing through; "the fins of a fish act as hydrofoils"
+    [syn: {hydrofoil}]
  4: picture consisting of a positive photograph or drawing on a
     transparent base; viewed with a projector [syn: {transparency}]
  5: a light slender flexible sword tipped by a button
- [1;37mVerb[0m
+ Verb
  1: enhance by contrast; "In this picture, the figures are
-    [1;37mfoil[0med against the background"
+    foiled against the background"
  2: hinder or prevent (the efforts, plans, or desires) of; "What
     ultimately frustrated every challenger was Ruth's amazing
-    September surge"; "[1;37mfoil[0m your opponent" [syn: {thwart}, {queer},
+    September surge"; "foil your opponent" [syn: {thwart}, {queer},
     {spoil}, {scotch}, {cross}, {frustrate}, {baffle}, {bilk}]
- 3: cover or back with [1;37mfoil[0m; "[1;37mfoil[0m mirrors"
+ 3: cover or back with foil; "foil mirrors"
 
  
  
 couplet
 
- [1;37mNoun[0m
+ Noun
  1: two items of the same kind [syn: {couple}, {pair}, {twosome},
     {twain}, {brace}, {span}, {yoke}, {distich}, {duo}, {duet},
     {dyad}, {duad}]
@@ -284,33 +284,33 @@ couplet
  
 dramatic
 
- [1;37mAdjective[0m
- 1: suitable to or characteristic of drama; "a [1;37mdramatic[0m entrance
-    in a swirling cape"; "a [1;37mdramatic[0m rescue at sea" [ant:
-    {un[1;37mdramatic[0m}]
+ Adjective
+ 1: suitable to or characteristic of drama; "a dramatic entrance
+    in a swirling cape"; "a dramatic rescue at sea" [ant:
+    {undramatic}]
  2: sensational in appearance or thrilling in effect; "a
-    [1;37mdramatic[0m sunset"; "a [1;37mdramatic[0m pause"; "a spectacular
+    dramatic sunset"; "a dramatic pause"; "a spectacular
     display of northern lights"; "it was a spectacular play";
     "his striking good looks always created a sensation" [syn:
     {spectacular}, {striking}]
- 3: pertaining to or characteristic of drama; "[1;37mdramatic[0m arts"
+ 3: pertaining to or characteristic of drama; "dramatic arts"
  4: used of a singer or singing voice that is marked by power
     and expressiveness and a histrionic or theatrical style;
-    "a [1;37mdramatic[0m tenor"; "a [1;37mdramatic[0m soprano" [ant: {lyric}]
+    "a dramatic tenor"; "a dramatic soprano" [ant: {lyric}]
 
  
  
 irony
 
- [1;37mNoun[0m
+ Noun
  1: witty language used to convey insults or scorn; "he used
-    sarcasm to upset his opponent"; "[1;37mirony[0m is wasted on the
+    sarcasm to upset his opponent"; "irony is wasted on the
     stupid"; "Satire is a sort of glass, wherein beholders
     do generally discover everybody's face but their
     own"--Johathan Swift [syn: {sarcasm}, {satire}, {caustic
     remark}]
  2: incongruity between what might be expected and what actually
-    occurs; "the [1;37mirony[0m of Ireland's copying the nation she
+    occurs; "the irony of Ireland's copying the nation she
     most hated"
  3: a trope that involves incongruity between what is expected
     and what occurs
@@ -319,40 +319,40 @@ irony
  
 form
 
- [1;37mVerb[0m
- 1: to compose or represent:"This wall [1;37mform[0ms the background of
+ Verb
+ 1: to compose or represent:"This wall forms the background of
     the stage setting"; "The branches made a roof"; "This
     makes a fine introduction" [syn: {constitute}, {make}]
- 2: create (as an entity); "social groups [1;37mform[0m everywhere";
-    "They [1;37mform[0med a company" [syn: {organize}, {organise}]
+ 2: create (as an entity); "social groups form everywhere";
+    "They formed a company" [syn: {organize}, {organise}]
  3: develop into a distinctive entity; "our plans began to take
-    shape" [syn: {take [1;37mform[0m}, {take shape}, {spring}]
- 4: give a shape or [1;37mform[0m to; "shape the dough" [syn: {shape}]
+    shape" [syn: {take form}, {take shape}, {spring}]
+ 4: give a shape or form to; "shape the dough" [syn: {shape}]
  5: make something, usually for a specific function; "She molded
     the riceballs carefully"; "Form cylinders from the dough";
     "shape a figure"; "Work the metal into a sword" [syn: {shape},
     {work}, {mold}, {mould}, {forge}]
  6: establish or impress firmly in the mind; "We imprint our
     ideas onto our children" [syn: {imprint}]
- 7: give shape to; "[1;37mform[0m the clay into a head" [ant: {de[1;37mform[0m}]
+ 7: give shape to; "form the clay into a head" [ant: {deform}]
 
- [1;37mNoun[0m
+ Noun
  1: the phonological or orthographic sound or appearance of a
     word that can be used to describe or identify something;
-    "the inflected [1;37mform[0ms of a word can be represented by a
+    "the inflected forms of a word can be represented by a
     stem and a list of inflections to be attached" [syn: {word
-    [1;37mform[0m}, {signifier}, {descriptor}]
+    form}, {signifier}, {descriptor}]
  2: a category of things distinguished by some common
-    characteristic or quality; "sculpture is a [1;37mform[0m of art";
+    characteristic or quality; "sculpture is a form of art";
     "what kinds of desserts are there?" [syn: {kind}, {sort},
     {variety}]
  3: a perceptual structure; "the composition presents problems
-    for students of musical [1;37mform[0m"; "a visual pattern must
+    for students of musical form"; "a visual pattern must
     include not only objects but the spaces between them"
     [syn: {shape}, {pattern}]
  4: any spatial attributes (especially as defined by outline);
     "he could barely make out their shapes through the smoke"
-    [syn: {shape}, {configuration}, {contour}, {con[1;37mform[0mation}]
+    [syn: {shape}, {configuration}, {contour}, {conformation}]
  5: alternative names for the body of a human being; "Leonardo
     studied the human body"; "he has a strong physique"; "the
     spirit is willing but the flesh is weak" [syn: {human body},
@@ -370,74 +370,74 @@ form
     phase boundary; "the reaction occurs in the liquid phase
     of the system" [syn: {phase}]
  9: a printed document with spaces in which to write; "he filled
-    out his tax [1;37mform[0m"
+    out his tax form"
  10: (biology) a group of organisms within a species that differ
     in trivial ways from similar groups; "a new strain of
     microorganisms" [syn: {variant}, {strain}, {var.}]
  11: an arrangement of the elements in a composition or
-    discourse; "the essay was in the [1;37mform[0m of a dialogue"; "he
-    first sketches the plot in outline [1;37mform[0m"
+    discourse; "the essay was in the form of a dialogue"; "he
+    first sketches the plot in outline form"
  12: a particular mode in which something is manifested; "his
-    resentment took the [1;37mform[0m of extreme hostility"
+    resentment took the form of extreme hostility"
  13: a body of students who are taught together; "early morning
     classes are always sleepy" [syn: {class}, {grade}]
- 14: an ability to per[1;37mform[0m well; "he was at the top of his [1;37mform[0m";
-    "the team was off [1;37mform[0m last night"
+ 14: an ability to perform well; "he was at the top of his form";
+    "the team was off form last night"
  15: a life-size dummy used to display clothes [syn: {mannequin},
     {manikin}, {mannikin}, {manakin}]
- 16: a mold for setting concrete; "they built elaborate [1;37mform[0ms for
+ 16: a mold for setting concrete; "they built elaborate forms for
     pouring the foundation"
 
  
  
 free
 
- [1;37mAdjective[0m
+ Adjective
  1: able to act at will; not hampered; not under compulsion or
-    restraint; "[1;37mfree[0m enterprise"; "a [1;37mfree[0m port"; "a [1;37mfree[0m
-    country"; "I have an hour [1;37mfree[0m"; "[1;37mfree[0m will"; "[1;37mfree[0m of
-    racism"; "feel [1;37mfree[0m to stay as long as you wish"; "a
-    [1;37mfree[0m choice" [ant: {un[1;37mfree[0m}]
+    restraint; "free enterprise"; "a free port"; "a free
+    country"; "I have an hour free"; "free will"; "free of
+    racism"; "feel free to stay as long as you wish"; "a
+    free choice" [ant: {unfree}]
  2: unconstrained or not chemically bound in a molecule or not
-    fixed and capable of relatively unrestricted motion; "[1;37mfree[0m
-    expansion"; "[1;37mfree[0m oxygen"; "a [1;37mfree[0m electron" [ant: {bound}]
+    fixed and capable of relatively unrestricted motion; "free
+    expansion"; "free oxygen"; "a free electron" [ant: {bound}]
  3: costing nothing; "complimentary tickets" [syn: {complimentary},
     {costless}, {gratis(p)}, {gratuitous}]
- 4: not occupied or in use; "a [1;37mfree[0m locker"; "a [1;37mfree[0m lane"
+ 4: not occupied or in use; "a free locker"; "a free lane"
  5: not fixed in position; "the detached shutter fell on him";
-    "he pulled his arm [1;37mfree[0m and ran" [syn: {detached}]
- 6: not held in servitude; "after the Civil War he was a [1;37mfree[0m
+    "he pulled his arm free and ran" [syn: {detached}]
+ 6: not held in servitude; "after the Civil War he was a free
     man" [ant: {slave(a)}]
- 7: not taken up by scheduled activities; "a [1;37mfree[0m hour between
+ 7: not taken up by scheduled activities; "a free hour between
     classes"; "spare time on my hands" [syn: {spare}]
  8: not literal; "a loose interpretation of what she had been
-    told"; "a [1;37mfree[0m translation of the poem" [syn: {loose}, {liberal}]
-    [also: {[1;37mfree[0mst}, {[1;37mfree[0mr}]
+    told"; "a free translation of the poem" [syn: {loose}, {liberal}]
+    [also: {freest}, {freer}]
 
- [1;37mAdverb[0m
+ Adverb
  1: without restraint; "cows in India are running loose" [syn: {loose}]
-    [also: {[1;37mfree[0mst}, {[1;37mfree[0mr}]
+    [also: {freest}, {freer}]
 
- [1;37mNoun[0m
- 1: people who are [1;37mfree[0m; "the home of the [1;37mfree[0m and the brave"
-    [syn: {[1;37mfree[0m people}]
-    [also: {[1;37mfree[0mst}, {[1;37mfree[0mr}]
+ Noun
+ 1: people who are free; "the home of the free and the brave"
+    [syn: {free people}]
+    [also: {freest}, {freer}]
 
- [1;37mVerb[0m
- 1: grant [1;37mfree[0mdom to; [1;37mfree[0m from confinement [syn: {liberate}, {release},
+ Verb
+ 1: grant freedom to; free from confinement [syn: {liberate}, {release},
     {unloose}, {unloosen}, {loose}] [ant: {confine}]
  2: relieve from; "Rid the the house of pests" [syn: {rid}, {disembarrass}]
  3: remove or force out from a position; "The dentist dislodged
     the piece of food that had been stuck under my gums"; "He
-    finally could [1;37mfree[0m the legs of the earthquake victim who
+    finally could free the legs of the earthquake victim who
     was buried in the rubble" [syn: {dislodge}] [ant: {lodge}]
  4: grant relief or an exemption from a rule or requirement to;
     "She exempted me from the exam" [syn: {exempt}, {relieve}]
     [ant: {enforce}]
  5: make (information) available publication; "release the list
     with the names of the prisoners" [syn: {release}]
- 6: [1;37mfree[0m from obligations or duties [syn: {discharge}]
- 7: [1;37mfree[0m or remove obstruction from; "[1;37mfree[0m a path across the
+ 6: free from obligations or duties [syn: {discharge}]
+ 7: free or remove obstruction from; "free a path across the
     cluttered floor" [syn: {disengage}] [ant: {obstruct}]
  8: let off the hook; "I absolve you from this responsibility"
     [syn: {absolve}, {justify}] [ant: {blame}]
@@ -446,60 +446,60 @@ free
     the throne" [syn: {release}, {relinquish}, {resign}, {give
     up}]
  10: make (assets) available; "release the holdings in the
-    dictator's bank account" [syn: {unblock}, {un[1;37mfree[0mze}, {release}]
-    [ant: {[1;37mfree[0mze}, {[1;37mfree[0mze}]
-    [also: {[1;37mfree[0mst}, {[1;37mfree[0mr}]
+    dictator's bank account" [syn: {unblock}, {unfreeze}, {release}]
+    [ant: {freeze}, {freeze}]
+    [also: {freest}, {freer}]
 
  
  
 verse
 
- [1;37mNoun[0m
+ Noun
  1: literature in metrical form [syn: {poetry}, {poesy}]
  2: a piece of poetry [syn: {rhyme}]
- 3: a line of metrical text [syn: {[1;37mverse[0m line}]
- [1;37mVerb[0m
- 1: compose [1;37mverse[0ms or put into [1;37mverse[0m; "He versified the ancient
+ 3: a line of metrical text [syn: {verse line}]
+ Verb
+ 1: compose verses or put into verse; "He versified the ancient
     saga" [syn: {versify}, {poetize}, {poetise}]
  2: familiarize through thorough study or experience; "She
-    [1;37mverse[0md herself in Roman archeology"
+    versed herself in Roman archeology"
 
  
  
 hyperbole
 
- [1;37mNoun[0m
+ Noun
  1: extravagant exaggeration [syn: {exaggeration}]
 
  
  
 iambic
 
- [1;37mAdjective[0m
- 1: of or consisting of iambs; "[1;37miambic[0m pentameter"
+ Adjective
+ 1: of or consisting of iambs; "iambic pentameter"
  n : a verse line consisting of iambs
 
  
  
 pentameter
 
- [1;37mNoun[0m
+ Noun
  1: a verse line having five metrical feet
 
  
  
 imagery
 
- [1;37mNoun[0m
+ Noun
  1: the ability to form mental images of things or events; "he
     could still hear her in his imagination" [syn: {imagination},
-    {imaging}, {mental [1;37mimagery[0m}]
+    {imaging}, {mental imagery}]
 
  
  
 metaphor
 
- [1;37mNoun[0m
+ Noun
  1: a figure of speech in which an expression is used to refer
     to something that it does not literally denote in order
     to suggest a similarity
@@ -508,7 +508,7 @@ metaphor
  
 monologue
 
- [1;37mNoun[0m
+ Noun
  1: speech you make to yourself [syn: {soliloquy}]
  2: a long utterance by one person (especially one that prevents
     others from participating in the conversation)
@@ -518,9 +518,9 @@ monologue
  
 personification
 
- [1;37mNoun[0m
+ Noun
  1: a person who represents an abstract quality; "she is the
-    [1;37mpersonification[0m of optimism"
+    personification of optimism"
  2: representing an abstract quality or idea as a person or
     creature [syn: {prosopopoeia}]
  3: the act of attributing human characteristics to abstract
@@ -530,7 +530,7 @@ personification
  
 protagonist
 
- [1;37mNoun[0m
+ Noun
  1: a person who backs a politician or a team etc.; "all their
     supporters came out for the game"; "they are friends of
     the library" [syn: {supporter}, {champion}, {admirer}, {booster},
@@ -541,14 +541,14 @@ protagonist
  
 quatrain
 
- [1;37mNoun[0m
+ Noun
  1: a stanza of four lines
 
  
  
 repetition
 
- [1;37mNoun[0m
+ Noun
  1: an event that repeats; "the events today were a repeat of
     yesterday's" [syn: {repeat}]
  2: the act of doing or performing again [syn: {repeating}]
@@ -559,26 +559,26 @@ repetition
  
 rhyme
 
- [1;37mNoun[0m
+ Noun
  1: correspondence in the sounds of two or more lines
     (especially final sounds) [syn: {rime}]
  2: a piece of poetry [syn: {verse}]
 
- [1;37mVerb[0m
- 1: compose [1;37mrhyme[0ms [syn: {rime}]
+ Verb
+ 1: compose rhymes [syn: {rime}]
  2: be similar in sound, especially with respect to the last
-    syllable; "hat and cat [1;37mrhyme[0m" [syn: {rime}]
+    syllable; "hat and cat rhyme" [syn: {rime}]
 
  
  
 scheme
 
- [1;37mVerb[0m
+ Verb
  1: form intrigues (for) in an underhand manner [syn: {intrigue},
     {connive}]
- 2: devise a system or form a [1;37mscheme[0m for
+ 2: devise a system or form a scheme for
 
- [1;37mNoun[0m
+ Noun
  1: an elaborate and systematic plan of action [syn: {strategy}]
  2: a statement that evades the question by cleverness or
     trickery [syn: {dodge}, {dodging}]
@@ -595,21 +595,21 @@ scheme
  
 rhythm
 
- [1;37mNoun[0m
- 1: the basic [1;37mrhythm[0mic unit in a piece of music; "the piece has
-    a fast [1;37mrhythm[0m"; "the conductor set the beat" [syn: {beat},
-    {musical [1;37mrhythm[0m}]
+ Noun
+ 1: the basic rhythmic unit in a piece of music; "the piece has
+    a fast rhythm"; "the conductor set the beat" [syn: {beat},
+    {musical rhythm}]
  2: recurring at regular intervals [syn: {regular recurrence}]
  3: an interval during which a recurring sequence of events
     occurs; "the neverending cycle of the seasons" [syn: {cycle},
     {round}]
  4: the arrangement of spoken words alternating stressed and
-    unstressed elements; "the [1;37mrhythm[0m of Frost's poetry" [syn:
-    {speech [1;37mrhythm[0m}]
+    unstressed elements; "the rhythm of Frost's poetry" [syn:
+    {speech rhythm}]
  5: natural family planning in which ovulation is assumed to
     occur 14 days before the onset of a period (the fertile
     period would be assumed to extend from day 10 through day
-    18 of her cycle) [syn: {[1;37mrhythm[0m method of birth control}, {[1;37mrhythm[0m
+    18 of her cycle) [syn: {rhythm method of birth control}, {rhythm
     method}, {calendar method of birth control}, {calendar
     method}]
 
@@ -617,29 +617,29 @@ rhythm
  
 stanza
 
- [1;37mNoun[0m
+ Noun
  1: a fixed number of lines of verse forming a unit of a poem
 
  
  
 theme
 
- [1;37mVerb[0m
- 1: provide with a particular [1;37mtheme[0m or motive; "the restaurant
-    often [1;37mtheme[0ms its menus"
+ Verb
+ 1: provide with a particular theme or motive; "the restaurant
+    often themes its menus"
 
- [1;37mNoun[0m
+ Noun
  1: the subject matter of a conversation or discussion; "he
     didn't want to discuss that subject"; "it was a very
-    sensitive topic"; "his letters were always on the [1;37mtheme[0m
+    sensitive topic"; "his letters were always on the theme
     of love" [syn: {subject}, {topic}]
  2: a unifying idea that is a recurrent element in a literary or
-    artistic work; "it was the usual `boy gets girl' [1;37mtheme[0m"
+    artistic work; "it was the usual `boy gets girl' theme"
     [syn: {motif}]
- 3: (music) melodic subject of a musical composition; "the [1;37mtheme[0m
+ 3: (music) melodic subject of a musical composition; "the theme
     is announced in the first measures"; "the accompanist
-    picked up the idea and elaborated it" [syn: {melodic [1;37mtheme[0m},
-    {musical [1;37mtheme[0m}, {idea}]
+    picked up the idea and elaborated it" [syn: {melodic theme},
+    {musical theme}, {idea}]
  4: an essay (especially one written as an assignment); "he got
     an A on his composition" [syn: {composition}, {paper}, {report}]
  5: (linguistics) the form of a word after all affixes are

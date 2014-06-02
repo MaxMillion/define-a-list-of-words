@@ -43,6 +43,8 @@ sed 's/^ : / 1: /g' | sed "/^${1}.*/d" | sed "s/^ \[/    \[/g" | \
 #and display a garbled string next to the word being colored.
 #You can easily use the "Replace" feature of your text editor to remove those strings.
 
+#BUG FIXED!! see commit "Added code to remove coloring."
+
 # and coloring
 sed "s/${1}/${sedbldwht}${1}${sedtxtrst}/g"
 
