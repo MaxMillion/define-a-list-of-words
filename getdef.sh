@@ -23,7 +23,7 @@ wordcheckprnt=$(echo "$1" | aspell -a | sed '1d' | sed 's/^.*: //')
 
 
 # Lookup word and reformat/highlight
-sdcv -u "WordNet" $1 | \
+sdcv -u "WordNet"  "$1" | \
 # lookup, delete extrenous first lines, delete last empty line
 sed '1,3d' | sed '/^*$/d' | \
 # print more obvious word type

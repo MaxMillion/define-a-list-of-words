@@ -15,19 +15,22 @@
 
 #I hope this tool is useful to you!
 
+#read words.txt per new line
+IFS='
+'
 #Start the main loop.
-for word in `cat words.txt`; do
+for line in $(cat words.txt); do
 
 #Formatting for messages sent to stdout.
 echo ' '
-echo "the next word to define is $word"
+echo "the next word to define is $line"
 #Formatting for definitions.
 echo ' ' >>defsout.colored
 echo ' ' >>defsout.colored
 #Print the word being defined to the file.
-echo $word >>defsout.colored
+echo $line >>defsout.colored
 #Print the definition of that word to the file.
-sh getdef.sh $word >>defsout.colored
+sh getdef.sh "$line" >>defsout.colored
 
 done
 
