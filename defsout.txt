@@ -33,47 +33,7 @@ drama
 
  
  
-figurative
-
- Adjective
- 1: (used of the meanings of words or text) not literal; using
-    figures of speech; "figurative language" [syn: {nonliteral}]
-    [ant: {literal}]
- 2: consisting of or forming human or animal figures; "a figural
-    design"; "the figurative art of the humanistic tradition"-
-    Herbert Read [syn: {figural}]
-
- 
- 
-language
-
- Noun
- 1: a systematic means of communicating by the use of sounds or
-    conventional symbols; "he taught foreign languages";
-    "the language introduced is standard throughout the
-    text"; "the speed with which a program can be executed
-    depends on the language in which it is written" [syn: {linguistic
-    communication}]
- 2: (language) communication by word of mouth; "his speech was
-    garbled"; "he uttered harsh language"; "he recorded the
-    spoken language of the streets" [syn: {speech}, {speech
-    communication}, {spoken communication}, {spoken language},
-    {voice communication}, {oral communication}]
- 3: a system of words used in a particular discipline; "legal
-    terminology"; "the language of sociology" [syn: {terminology},
-    {nomenclature}]
- 4: the cognitive processes involved in producing and
-    understanding linguistic communication; "he didn't have
-    the language to express his feelings" [syn: {linguistic
-    process}]
- 5: the mental faculty or power of vocal communication;
-    "language sets homo sapiens apart from all other animals"
-    [syn: {speech}]
- 6: the text of a popular song or musical-comedy number; "his
-    compositions always started with the lyrics"; "he wrote
-    both words and music"; "the song uses colloquial language"
-    [syn: {lyric}, {words}]
-
+figurative language
  
  
 interpretation
@@ -99,66 +59,10 @@ interpretation
 metacognition
  
  
-poetic
-
- Adjective
- 1: of or relating to poetry; "poetic works"; "a poetic romance"
-    [syn: {poetical}]
- 2: characterized by romantic imagery; "Turner's vision of the
-    rainbow...was poetic"
- 3: of or relating to poets; "poetic insight"
- 4: characteristic of or befitting poetry; "poetic diction"
-    [syn: {poetical}]
-
+poetic structure
  
  
-structure
-
- Noun
- 1: a thing constructed; a complex construction or entity; "the
-    structure consisted of a series of arches"; "she wore
-    her hair in an amazing construction of whirls and
-    ribbons" [syn: {construction}]
- 2: the manner of construction of something and the arrangement
-    of its parts; "artists must study the structure of the
-    human body"; "the structure of the benzene molecule"
- 3: the complex composition of knowledge as elements and their
-    combinations; "his lectures have no structure"
- 4: a particular complex anatomical structure; "he has good bone
-    structure" [syn: {anatomical structure}, {complex body
-    part}, {bodily structure}, {body structure}]
- 5: the people in a society considered as a system organized by
-    a characteristic pattern of relationships; "the social
-    organization of England and America is very different";
-    "sociologists have studied the changing structure of the
-    family" [syn: {social organization}, {social organisation},
-    {social structure}, {social system}]
- Verb
- 1: give a structure to; "I need to structure my days"
-
- 
- 
-theatrical
-
- Noun
- 1: a performance of play [syn: {theatrical performance}, {representation},
-    {histrionics}]
-
- Adjective
- 1: of or relating to the theater
- 2: suited to or characteristic of the stage or theater; "a
-    theatrical pose"; "one of the most theatrical figures in
-    public life" [ant: {untheatrical}]
-
- 
- 
-elements
-
- Noun
- 1: violent or severe weather (viewed as caused by the action of
-    the four elements); "they felt the full fury of the
-    elements"
-
+theatrical elements
  
  
 tragedy
@@ -208,67 +112,7 @@ autobiography
 
  
  
-character
-
- Noun
- 1: an imaginary person represented in a work of fiction (play
-    or film or story); "she is the main character in the
-    novel" [syn: {fictional character}, {fictitious
-    character}]
- 2: a characteristic property that defines the apparent
-    individual nature of something; "each town has a quality
-    all its own"; "the radical character of our demands" [syn:
-    {quality}, {lineament}]
- 3: the inherent complex of attributes that determine a persons
-    moral and ethical actions and reactions; "education has
-    for its object the formation of character"- Herbert
-    Spencer [syn: {fiber}, {fibre}]
- 4: an actor's portrayal of someone in a play; "she played the
-    part of Desdemona" [syn: {role}, {theatrical role}, {part},
-    {persona}]
- 5: a person of a specified kind (usually with many
-    eccentricities); "a real character"; "a strange
-    character"; "a friendly eccentric"; "the capable type"; "a
-    mental case" [syn: {eccentric}, {type}, {case}]
- 6: good repute; "he is a man of character"
- 7: a formal recommendation by a former employer to a potential
-    future employer describing the person's qualifications and
-    dependability; "requests for character references are all
-    to often answered evasively" [syn: {reference}, {character
-    reference}]
- 8: a written symbol that is used to represent speech; "the
-    Greek alphabet has 24 characters" [syn: {grapheme}, {graphic
-    symbol}]
-
- Verb
- 1: engrave or inscribe characters on
-
- 
- 
-foil
-
- Noun
- 1: a piece of thin and flexible sheet metal; "the photographic
-    film was wrapped in foil"
- 2: anything that serves by contrast to call attention to
-    another thing's good qualities; "pretty girls like plain
-    friends as foils" [syn: {enhancer}]
- 3: a device consisting of a flat or curved piece (as a metal
-    plate) so that its surface reacts to the water it is
-    passing through; "the fins of a fish act as hydrofoils"
-    [syn: {hydrofoil}]
- 4: picture consisting of a positive photograph or drawing on a
-    transparent base; viewed with a projector [syn: {transparency}]
- 5: a light slender flexible sword tipped by a button
- Verb
- 1: enhance by contrast; "In this picture, the figures are
-    foiled against the background"
- 2: hinder or prevent (the efforts, plans, or desires) of; "What
-    ultimately frustrated every challenger was Ruth's amazing
-    September surge"; "foil your opponent" [syn: {thwart}, {queer},
-    {spoil}, {scotch}, {cross}, {frustrate}, {baffle}, {bilk}]
- 3: cover or back with foil; "foil mirrors"
-
+character foil
  
  
 couplet
@@ -282,38 +126,12 @@ couplet
 
  
  
-dramatic
-
- Adjective
- 1: suitable to or characteristic of drama; "a dramatic entrance
-    in a swirling cape"; "a dramatic rescue at sea" [ant:
-    {undramatic}]
- 2: sensational in appearance or thrilling in effect; "a
-    dramatic sunset"; "a dramatic pause"; "a spectacular
-    display of northern lights"; "it was a spectacular play";
-    "his striking good looks always created a sensation" [syn:
-    {spectacular}, {striking}]
- 3: pertaining to or characteristic of drama; "dramatic arts"
- 4: used of a singer or singing voice that is marked by power
-    and expressiveness and a histrionic or theatrical style;
-    "a dramatic tenor"; "a dramatic soprano" [ant: {lyric}]
-
- 
- 
-irony
+dramatic irony
 
  Noun
- 1: witty language used to convey insults or scorn; "he used
-    sarcasm to upset his opponent"; "irony is wasted on the
-    stupid"; "Satire is a sort of glass, wherein beholders
-    do generally discover everybody's face but their
-    own"--Johathan Swift [syn: {sarcasm}, {satire}, {caustic
-    remark}]
- 2: incongruity between what might be expected and what actually
-    occurs; "the irony of Ireland's copying the nation she
-    most hated"
- 3: a trope that involves incongruity between what is expected
-    and what occurs
+ 1: (theater) irony that occurs when the meaning of the
+    situation is understood by the audience but not by the
+    characters in the play
 
  
  
@@ -390,79 +208,11 @@ form
 
  
  
-free
-
- Adjective
- 1: able to act at will; not hampered; not under compulsion or
-    restraint; "free enterprise"; "a free port"; "a free
-    country"; "I have an hour free"; "free will"; "free of
-    racism"; "feel free to stay as long as you wish"; "a
-    free choice" [ant: {unfree}]
- 2: unconstrained or not chemically bound in a molecule or not
-    fixed and capable of relatively unrestricted motion; "free
-    expansion"; "free oxygen"; "a free electron" [ant: {bound}]
- 3: costing nothing; "complimentary tickets" [syn: {complimentary},
-    {costless}, {gratis(p)}, {gratuitous}]
- 4: not occupied or in use; "a free locker"; "a free lane"
- 5: not fixed in position; "the detached shutter fell on him";
-    "he pulled his arm free and ran" [syn: {detached}]
- 6: not held in servitude; "after the Civil War he was a free
-    man" [ant: {slave(a)}]
- 7: not taken up by scheduled activities; "a free hour between
-    classes"; "spare time on my hands" [syn: {spare}]
- 8: not literal; "a loose interpretation of what she had been
-    told"; "a free translation of the poem" [syn: {loose}, {liberal}]
-    [also: {freest}, {freer}]
-
- Adverb
- 1: without restraint; "cows in India are running loose" [syn: {loose}]
-    [also: {freest}, {freer}]
+free verse
 
  Noun
- 1: people who are free; "the home of the free and the brave"
-    [syn: {free people}]
-    [also: {freest}, {freer}]
-
- Verb
- 1: grant freedom to; free from confinement [syn: {liberate}, {release},
-    {unloose}, {unloosen}, {loose}] [ant: {confine}]
- 2: relieve from; "Rid the the house of pests" [syn: {rid}, {disembarrass}]
- 3: remove or force out from a position; "The dentist dislodged
-    the piece of food that had been stuck under my gums"; "He
-    finally could free the legs of the earthquake victim who
-    was buried in the rubble" [syn: {dislodge}] [ant: {lodge}]
- 4: grant relief or an exemption from a rule or requirement to;
-    "She exempted me from the exam" [syn: {exempt}, {relieve}]
-    [ant: {enforce}]
- 5: make (information) available publication; "release the list
-    with the names of the prisoners" [syn: {release}]
- 6: free from obligations or duties [syn: {discharge}]
- 7: free or remove obstruction from; "free a path across the
-    cluttered floor" [syn: {disengage}] [ant: {obstruct}]
- 8: let off the hook; "I absolve you from this responsibility"
-    [syn: {absolve}, {justify}] [ant: {blame}]
- 9: part with a possession or right; "I am relinquishing my
-    bedroom to the long-term house guest"; "resign a claim to
-    the throne" [syn: {release}, {relinquish}, {resign}, {give
-    up}]
- 10: make (assets) available; "release the holdings in the
-    dictator's bank account" [syn: {unblock}, {unfreeze}, {release}]
-    [ant: {freeze}, {freeze}]
-    [also: {freest}, {freer}]
-
- 
- 
-verse
-
- Noun
- 1: literature in metrical form [syn: {poetry}, {poesy}]
- 2: a piece of poetry [syn: {rhyme}]
- 3: a line of metrical text [syn: {verse line}]
- Verb
- 1: compose verses or put into verse; "He versified the ancient
-    saga" [syn: {versify}, {poetize}, {poetise}]
- 2: familiarize through thorough study or experience; "She
-    versed herself in Roman archeology"
+ 1: unrhymed verse without a consistent metrical pattern [syn: {vers
+    libre}]
 
  
  
@@ -473,19 +223,7 @@ hyperbole
 
  
  
-iambic
-
- Adjective
- 1: of or consisting of iambs; "iambic pentameter"
- n : a verse line consisting of iambs
-
- 
- 
-pentameter
-
- Noun
- 1: a verse line having five metrical feet
-
+iambic pentameter
  
  
 imagery
@@ -557,40 +295,7 @@ repetition
 
  
  
-rhyme
-
- Noun
- 1: correspondence in the sounds of two or more lines
-    (especially final sounds) [syn: {rime}]
- 2: a piece of poetry [syn: {verse}]
-
- Verb
- 1: compose rhymes [syn: {rime}]
- 2: be similar in sound, especially with respect to the last
-    syllable; "hat and cat rhyme" [syn: {rime}]
-
- 
- 
-scheme
-
- Verb
- 1: form intrigues (for) in an underhand manner [syn: {intrigue},
-    {connive}]
- 2: devise a system or form a scheme for
-
- Noun
- 1: an elaborate and systematic plan of action [syn: {strategy}]
- 2: a statement that evades the question by cleverness or
-    trickery [syn: {dodge}, {dodging}]
- 3: a group of independent but interrelated elements comprising
-    a unified whole; "a vast system of production and
-    distribution and consumption keep the country going" [syn:
-    {system}]
- 4: an internal representation of the world; an organization of
-    concepts and actions that can be revised by new
-    information about the world [syn: {schema}]
- 5: a schematic or preliminary plan [syn: {outline}, {schema}]
-
+rhyme scheme
  
  
 rhythm
