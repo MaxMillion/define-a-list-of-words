@@ -1,11 +1,11 @@
 define-a-list-of-words
 ======================
 
-This is a collection of bash scripts that takes a list of words (that you have in a file named "words"), defines them, and writes that definition to a file known as defsout.txt.
+This is a collection of bash scripts that takes a list of words (that you have in a file named "words.txt"), defines them, and writes that definition to a file known as defsout.txt.
 
-It's a great tool for collecting a lot of definitions into a file at once. 
+It's a great tool for collecting a lot of definitions into a file at once, and it will surely meet all of your batch defining needs without issue.  
 
-The code isn't terribly pretty, and if a certain word isn't in the dictionary, then it will write an error message instead of a definition, but as long as your dictionary is large, up-to-date, and you aren't using any crazy words, then this script will do the job (and do it well).
+The code isn't terribly pretty, and if a certain word isn't in the dictionary, then it will write some empty space instead of a definition, but as long as your dictionary is large, up-to-date, and you aren't using any crazy words, then this script will do the job (and do it well).
 
 Before use, be sure to install the sdcv package, and follow this tutorial to load a dictionary onto your machine:
 http://linuxtidbits.wordpress.com/2008/01/30/command-line-dictionary/
