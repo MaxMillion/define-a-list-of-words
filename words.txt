@@ -1,31 +1,22 @@
-bibliography
-context
-drama
-figurative language
-interpretation
-metacognition
-poetic structure
-theatrical elements
-tragedy
-diction
-allusion
-anaphora
-autobiography
-character foil
-couplet
-dramatic irony
-form
-free verse
-hyperbole
-iambic pentameter
-imagery
-metaphor
-monologue
-personification
-protagonist
-quatrain
-repetition
-rhyme scheme
-rhythm
-stanza
-theme
+cow
+pig
+sheep
+nuclear reactor
+computer
+script
+dictionary
+cellophane
+plastic
+word
+english
+spanish
+cheese
+tomato
+blanket
+man
+book
+fire hydrant
+commercial
+software
+potato
+simile

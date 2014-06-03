@@ -1,353 +1,388 @@
  
  
-bibliography
+cow
 
  Noun
- 1: a list of writings with time and place of publication (such
-    as the writings of a single author or the works referred
-    to in preparing a document etc.)
-
- 
- 
-context
-
- Noun
- 1: discourse that surrounds a language unit and helps to
-    determine its interpretation [syn: {linguistic context},
-    {context of use}]
- 2: the set of facts or circumstances that surround a situation
-    or event; "the historical context" [syn: {circumstance}]
-
- 
- 
-drama
-
- Noun
- 1: a dramatic work intended for performance by actors on a
-    stage; "he wrote several plays but only one was produced
-    on Broadway" [syn: {play}, {dramatic play}]
- 2: an episode that is turbulent or highly emotional [syn: {dramatic
-    event}]
- 3: the literary genre of works intended for the theater
- 4: the quality of being arresting or highly emotional
-
- 
- 
-figurative language
- 
- 
-interpretation
-
- Noun
- 1: a mental representation of the meaning or significance of
-    something [syn: {reading}, {version}]
- 2: the act of interpreting something as expressed in an
-    artistic performance; "her rendition of Milton's verse was
-    extraordinarily moving" [syn: {rendition}, {rendering}]
- 3: an explanation that results from interpreting something;
-    "the report included his interpretation of the forensic
-    evidence"
- 4: an explanation of something that is not immediately obvious;
-    "the edict was subject to many interpretations"; "he
-    annoyed us with his interpreting of parables"; "often
-    imitations are extended to provide a more accurate
-    rendition of the child's intended meaning" [syn: {interpreting},
-    {rendition}, {rendering}]
-
- 
- 
-metacognition
- 
- 
-poetic structure
- 
- 
-theatrical elements
- 
- 
-tragedy
-
- Noun
- 1: an event resulting in great loss and misfortune; "the whole
-    city was affected by the irremediable calamity"; "the
-    earthquake was a disaster" [syn: {calamity}, {catastrophe},
-    {disaster}, {cataclysm}]
- 2: drama in which the protagonist is overcome by some superior
-    force or circumstance; excites terror or pity [ant: {comedy}]
-
- 
- 
-diction
-
- Noun
- 1: the articulation of speech regarded from the point of view
-    of its intelligibility to the audience [syn: {enunciation}]
- 2: the manner in which something is expressed in words; "use
-    concise military verbiage"- G.S.Patton [syn: {wording}, {phrasing},
-    {phraseology}, {choice of words}, {verbiage}]
-
- 
- 
-allusion
-
- Noun
- 1: passing reference or indirect mention
-
- 
- 
-anaphora
-
- Noun
- 1: using a pronoun or other pro-word instead of repeating a
-    word
- 2: repetition of a word or phrase as the beginning of
-    successive clauses [syn: {epanaphora}]
-
- 
- 
-autobiography
-
- Noun
- 1: a biography of yourself
-
- 
- 
-character foil
- 
- 
-couplet
-
- Noun
- 1: two items of the same kind [syn: {couple}, {pair}, {twosome},
-    {twain}, {brace}, {span}, {yoke}, {distich}, {duo}, {duet},
-    {dyad}, {duad}]
- 2: a stanza consisting of two successive lines of verse;
-    usually rhymed
-
- 
- 
-dramatic irony
-
- Noun
- 1: (theater) irony that occurs when the meaning of the
-    situation is understood by the audience but not by the
-    characters in the play
-
- 
- 
-form
+ 1: female of domestic cattle: "`moo-cow' is a child's term"
+    [syn: {moo-cow}]
+ 2: mature female of mammals of which the male is called `bull'
+ 3: a large unpleasant woman
 
  Verb
- 1: to compose or represent:"This wall forms the background of
-    the stage setting"; "The branches made a roof"; "This
-    makes a fine introduction" [syn: {constitute}, {make}]
- 2: create (as an entity); "social groups form everywhere";
-    "They formed a company" [syn: {organize}, {organise}]
- 3: develop into a distinctive entity; "our plans began to take
-    shape" [syn: {take form}, {take shape}, {spring}]
- 4: give a shape or form to; "shape the dough" [syn: {shape}]
- 5: make something, usually for a specific function; "She molded
-    the riceballs carefully"; "Form cylinders from the dough";
-    "shape a figure"; "Work the metal into a sword" [syn: {shape},
-    {work}, {mold}, {mould}, {forge}]
- 6: establish or impress firmly in the mind; "We imprint our
-    ideas onto our children" [syn: {imprint}]
- 7: give shape to; "form the clay into a head" [ant: {deform}]
+ 1: subdue, restrain, or overcome by affecting with a feeling of
+    awe; frighten (as with threats) [syn: {overawe}]
+
+ 
+ 
+pig
 
  Noun
- 1: the phonological or orthographic sound or appearance of a
-    word that can be used to describe or identify something;
-    "the inflected forms of a word can be represented by a
-    stem and a list of inflections to be attached" [syn: {word
-    form}, {signifier}, {descriptor}]
- 2: a category of things distinguished by some common
-    characteristic or quality; "sculpture is a form of art";
-    "what kinds of desserts are there?" [syn: {kind}, {sort},
-    {variety}]
- 3: a perceptual structure; "the composition presents problems
-    for students of musical form"; "a visual pattern must
-    include not only objects but the spaces between them"
-    [syn: {shape}, {pattern}]
- 4: any spatial attributes (especially as defined by outline);
-    "he could barely make out their shapes through the smoke"
-    [syn: {shape}, {configuration}, {contour}, {conformation}]
- 5: alternative names for the body of a human being; "Leonardo
-    studied the human body"; "he has a strong physique"; "the
-    spirit is willing but the flesh is weak" [syn: {human body},
-    {physical body}, {material body}, {soma}, {build}, {figure},
-    {physique}, {anatomy}, {shape}, {bod}, {chassis}, {frame},
-    {flesh}]
- 6: the spatial arrangement of something as distinct from its
-    substance; "geometry is the mathematical science of shape"
-    [syn: {shape}]
- 7: the visual appearance of something or someone; "the delicate
-    cast of his features" [syn: {shape}, {cast}]
- 8: (physical chemistry) a distinct state of matter in a system;
-    matter that is identical in chemical composition and
-    physical state and separated from other material by the
-    phase boundary; "the reaction occurs in the liquid phase
-    of the system" [syn: {phase}]
- 9: a printed document with spaces in which to write; "he filled
-    out his tax form"
- 10: (biology) a group of organisms within a species that differ
-    in trivial ways from similar groups; "a new strain of
-    microorganisms" [syn: {variant}, {strain}, {var.}]
- 11: an arrangement of the elements in a composition or
-    discourse; "the essay was in the form of a dialogue"; "he
-    first sketches the plot in outline form"
- 12: a particular mode in which something is manifested; "his
-    resentment took the form of extreme hostility"
- 13: a body of students who are taught together; "early morning
-    classes are always sleepy" [syn: {class}, {grade}]
- 14: an ability to perform well; "he was at the top of his form";
-    "the team was off form last night"
- 15: a life-size dummy used to display clothes [syn: {mannequin},
-    {manikin}, {mannikin}, {manakin}]
- 16: a mold for setting concrete; "they built elaborate forms for
-    pouring the foundation"
-
- 
- 
-free verse
-
- Noun
- 1: unrhymed verse without a consistent metrical pattern [syn: {vers
-    libre}]
-
- 
- 
-hyperbole
-
- Noun
- 1: extravagant exaggeration [syn: {exaggeration}]
-
- 
- 
-iambic pentameter
- 
- 
-imagery
-
- Noun
- 1: the ability to form mental images of things or events; "he
-    could still hear her in his imagination" [syn: {imagination},
-    {imaging}, {mental imagery}]
-
- 
- 
-metaphor
-
- Noun
- 1: a figure of speech in which an expression is used to refer
-    to something that it does not literally denote in order
-    to suggest a similarity
-
- 
- 
-monologue
-
- Noun
- 1: speech you make to yourself [syn: {soliloquy}]
- 2: a long utterance by one person (especially one that prevents
-    others from participating in the conversation)
- 3: a (usually long) dramatic speech by a single actor
-
- 
- 
-personification
-
- Noun
- 1: a person who represents an abstract quality; "she is the
-    personification of optimism"
- 2: representing an abstract quality or idea as a person or
-    creature [syn: {prosopopoeia}]
- 3: the act of attributing human characteristics to abstract
-    ideas etc. [syn: {incarnation}]
-
- 
- 
-protagonist
-
- Noun
- 1: a person who backs a politician or a team etc.; "all their
-    supporters came out for the game"; "they are friends of
-    the library" [syn: {supporter}, {champion}, {admirer}, {booster},
-    {friend}]
- 2: the principal character in a work of fiction [syn: {agonist}]
-
- 
- 
-quatrain
-
- Noun
- 1: a stanza of four lines
-
- 
- 
-repetition
-
- Noun
- 1: an event that repeats; "the events today were a repeat of
-    yesterday's" [syn: {repeat}]
- 2: the act of doing or performing again [syn: {repeating}]
- 3: the repeated use of the same word or word pattern as a
-    rhetorical device
-
- 
- 
-rhyme scheme
- 
- 
-rhythm
-
- Noun
- 1: the basic rhythmic unit in a piece of music; "the piece has
-    a fast rhythm"; "the conductor set the beat" [syn: {beat},
-    {musical rhythm}]
- 2: recurring at regular intervals [syn: {regular recurrence}]
- 3: an interval during which a recurring sequence of events
-    occurs; "the neverending cycle of the seasons" [syn: {cycle},
-    {round}]
- 4: the arrangement of spoken words alternating stressed and
-    unstressed elements; "the rhythm of Frost's poetry" [syn:
-    {speech rhythm}]
- 5: natural family planning in which ovulation is assumed to
-    occur 14 days before the onset of a period (the fertile
-    period would be assumed to extend from day 10 through day
-    18 of her cycle) [syn: {rhythm method of birth control}, {rhythm
-    method}, {calendar method of birth control}, {calendar
-    method}]
-
- 
- 
-stanza
-
- Noun
- 1: a fixed number of lines of verse forming a unit of a poem
-
- 
- 
-theme
+ 1: domestic swine [syn: {hog}, {grunter}, {squealer}, {Sus
+    scrofa}]
+ 2: a coarse obnoxious person [syn: {slob}, {sloven}, {slovenly
+    person}]
+ 3: a person regarded as greedy and pig-like [syn: {hog}]
+ 4: uncomplimentary terms for a policeman [syn: {bull}, {cop}, {copper},
+    {fuzz}]
+ 5: mold consisting of a bed of sand in which pig iron is cast
+    [syn: {pig bed}]
+ 6: a crude block of metal (lead or iron) poured from a smelting
+    furnace
+    [also: {pigging}, {pigged}]
 
  Verb
- 1: provide with a particular theme or motive; "the restaurant
-    often themes its menus"
+ 1: live like a pig, in squalor [syn: {pig it}]
+ 2: eat greedily; "he devoured three sandwiches" [syn: {devour},
+    {guttle}, {raven}]
+ 3: give birth; "sows farrow" [syn: {farrow}]
+    [also: {pigging}, {pigged}]
+
+ 
+ 
+sheep
 
  Noun
- 1: the subject matter of a conversation or discussion; "he
-    didn't want to discuss that subject"; "it was a very
-    sensitive topic"; "his letters were always on the theme
-    of love" [syn: {subject}, {topic}]
- 2: a unifying idea that is a recurrent element in a literary or
-    artistic work; "it was the usual `boy gets girl' theme"
-    [syn: {motif}]
- 3: (music) melodic subject of a musical composition; "the theme
-    is announced in the first measures"; "the accompanist
-    picked up the idea and elaborated it" [syn: {melodic theme},
-    {musical theme}, {idea}]
- 4: an essay (especially one written as an assignment); "he got
-    an A on his composition" [syn: {composition}, {paper}, {report}]
- 5: (linguistics) the form of a word after all affixes are
-    removed; "thematic vowels are part of the stem" [syn: {root},
-    {root word}, {base}, {stem}, {radical}]
+ 1: woolly usually horned ruminant mammal related to the goat
+ 2: a timid defenseless simpleton who is readily preyed upon
+ 3: a docile and vulnerable person who would rather follow than
+    make an independent decision; "his students followed him
+    like sheep"
+
+ 
+ 
+nuclear reactor
+
+ Noun
+ 1: (physics) any of several kinds of apparatus that maintain
+    and control a nuclear reaction for the production of
+    energy or artificial elements [syn: {reactor}]
+
+ 
+ 
+computer
+
+ Noun
+ 1: a machine for performing calculations automatically [syn: {computing
+    machine}, {computing device}, {data processor}, {electronic
+    computer}, {information processing system}]
+ 2: an expert at calculation (or at operating calculating
+    machines) [syn: {calculator}, {reckoner}, {figurer}, {estimator}]
+
+ 
+ 
+script
+
+ Noun
+ 1: a written version of a play or other dramatic composition;
+    used in preparing for a performance [syn: {book}, {playscript}]
+ 2: something written by hand; "she recognized his handwriting";
+    "his hand was illegible" [syn: {handwriting}, {hand}]
+ 3: a particular orthography or writing system
+
+ Verb
+ 1: write a script for; "The playwright scripted the movie"
+
+ 
+ 
+dictionary
+
+ Noun
+ 1: a reference book containing an alphabetical list of words
+    with information about them [syn: {lexicon}]
+
+ 
+ 
+cellophane
+
+ Noun
+ 1: a transparent paper-like product that is impervious to
+    moisture and used to wrap candy or cigarettes etc.
+
+ 
+ 
+plastic
+
+ Noun
+ 1: generic name for certain synthetic or semisynthetic
+    materials that can be molded or extruded into objects or
+    films or filaments or used for making e.g. coatings and
+    adhesives
+
+ Adjective
+ 1: used of the imagination; "material...transformed by the
+    plastic power of the imagination"--Coleridge
+ 2: capable of being molded or modeled (especially of earth or
+    clay or other soft material); "plastic substances such as
+    wax or clay" [syn: {fictile}, {moldable}]
+ 3: capable of being influenced or formed; "the plastic minds of
+    children"; "a pliant nature" [syn: {pliant}]
+
+ 
+ 
+word
+
+ Noun
+ 1: a unit of language that native speakers can identify; "words
+    are the blocks from which sentences are made"; "he
+    hardly said ten words all morning"
+ 2: a brief statement; "he didn't say a word about it"
+ 3: new information about specific and timely events; "they
+    awaited news of the outcome" [syn: {news}, {intelligence},
+    {tidings}]
+ 4: the divine word of God; the second person in the Trinity
+    (incarnate in Jesus) [syn: {Son}, {Logos}]
+ 5: a promise; "he gave his word" [syn: {parole}, {word of honor}]
+ 6: a secret word or phrase known only to a restricted group;
+    "he forgot the password" [syn: {password}, {watchword}, {parole},
+    {countersign}]
+ 7: an exchange of views on some topic; "we had a good
+    discussion"; "we had a word or two about it" [syn: {discussion},
+    {give-and-take}]
+ 8: the sacred writings of the Christian religions; "he went to
+    carry the Word to the heathen" [syn: {Bible}, {Christian
+    Bible}, {Book}, {Good Book}, {Holy Scripture}, {Holy Writ},
+    {Scripture}, {Word of God}]
+ 9: a verbal command for action; "when I give the word, charge!"
+ 10: a word is a string of bits stored in computer memory; "large
+    computers use words up to 64 bits long"
+
+ Verb
+ 1: put into words or an expression; "He formulated his concerns
+    to the board of trustees" [syn: {give voice}, {formulate},
+    {phrase}, {articulate}]
+
+ 
+ 
+english
+
+English
+ Adjective
+ 1: of or relating to or characteristic of England or its
+    culture; "English history"; "the English landed
+    aristocracy"; "English literature"
+
+English
+ n 1: an Indo-European language belonging to the West Germanic
+    branch; the official language of Britain and the United
+    States and most of the Commonwealth countries [syn: {English
+    language}]
+ 2: the people of England [syn: {English people}, {the English}]
+ 3: the discipline that studies the English language and
+    literature
+ 4: (sports) the spin given to a ball by striking it on one side
+    or releasing it with a sharp twist [syn: {side}]
+
+ 
+ 
+spanish
+
+Spanish
+ Adjective
+ 1: of or relating to or characteristic of Spain or the people
+    of Spain; "Spanish music"
+
+Spanish
+ n 1: the Romance language spoken in most of Spain and the
+    countries colonized by Spain
+ 2: the people of Spain [syn: {Spanish people}]
+
+ 
+ 
+cheese
+
+ Noun
+ 1: a solid food prepared from the pressed curd of milk
+ 2: erect or decumbent Old World perennial with axillary
+    clusters of rosy-purple flowers; introduced in United
+    States [syn: {tall mallow}, {high mallow}, {cheeseflower},
+    {Malva sylvestris}]
+
+ Verb
+ 1: used in the imperative (get away, or stop it); "Cheese it!"
+ 2: wind onto a cheese; "cheese the yarn"
+
+ 
+ 
+tomato
+
+ Noun
+ 1: mildly acid red or yellow pulpy fruit eaten as a vegetable
+ 2: native to South America; widely cultivated in many varieties
+    [syn: {love apple}, {tomato plant}, {Lycopersicon
+    esculentum}]
+    [also: {tomatoes} (pl)]
+
+ 
+ 
+blanket
+
+ Adjective
+ 1: broad in scope or content; "across-the-board pay increases";
+    "an all-embracing definition"; "blanket sanctions
+    against human-rights violators"; "an invention with
+    broad applications"; "a panoptic study of Soviet
+    nationality"- T.G.Winner; "granted him wide powers"
+    [syn: {across-the-board}, {all-embracing}, {all-encompassing},
+    {all-inclusive}, {blanket(a)}, {broad}, {encompassing},
+    {panoptic}, {wide}]
+
+ Noun
+ 1: bedding that keeps a person warm in bed; "he pulled the
+    covers over his head and went to sleep" [syn: {cover}]
+ 2: anything that covers; "there was a blanket of snow" [syn: {mantle}]
+ 3: a layer of lead surrounding the highly reactive core of a
+    nuclear reactor
+
+ Verb
+ 1: cover as if with a blanket; "snow blanketed the fields"
+ 2: form a blanket-like cover (over)
+
+ 
+ 
+man
+
+ Noun
+ 1: an adult male person (as opposed to a woman); "there were
+    two women and six men on the bus" [syn: {adult male}]
+    [ant: {woman}]
+ 2: someone who serves in the armed forces; a member of a
+    military force; "two men stood sentry duty" [syn: {serviceman},
+    {military man}, {military personnel}] [ant: {civilian}]
+ 3: the generic use of the word to refer to any human being; "it
+    was every man for himself"
+ 4: all of the inhabitants of the earth; "all the world loves a
+    lover"; "she always used `humankind' because `mankind'
+    seemed to slight the women" [syn: {world}, {human race}, {humanity},
+    {humankind}, {human beings}, {humans}, {mankind}]
+ 5: any living or extinct member of the family Hominidae [syn: {homo},
+    {human being}, {human}]
+ 6: a male subordinate; "the chief stationed two men outside the
+    building"; "he awaited word from his man in Havana"
+ 7: an adult male person who has a manly character (virile and
+    courageous competent); "the army will make a man of you"
+ 8: a male person who plays a significant role (husband or lover
+    or boyfriend) in the life of a particular woman; "she
+    takes good care of her man" [ant: {woman}]
+ 9: a manservant who acts as a personal attendant to his
+    employer; "Jeeves was Bertie Wooster's man" [syn: {valet},
+    {valet de chambre}, {gentleman}, {gentleman's gentleman}]
+ 10: one of the British Isles in the Irish Sea [syn: {Isle of Man}]
+ 11: game equipment consisting of an object used in playing
+    certain board games; "he taught me to set up the men on
+    the chess board"; "he sacrificed a piece to get a
+    strategic advantage" [syn: {piece}]
+    [also: {manning}, {manned}, {men} (pl)]
+
+ Verb
+ 1: take charge of a certain job; occupy a certain work place;
+    "Mr. Smith manned the reception desk in the morning"
+ 2: provide with men; "We cannot man all the desks"
+    [also: {manning}, {manned}, {men} (pl)]
+
+ 
+ 
+book
+
+ Noun
+ 1: a written work or composition that has been published
+    (printed on pages bound together); "I am reading a good
+    book on economics"
+ 2: physical objects consisting of a number of pages bound
+    together; "he used a large book as a doorstop" [syn: {volume}]
+ 3: a record in which commercial accounts are recorded; "they
+    got a subpoena to examine our books" [syn: {ledger}, {leger},
+    {account book}, {book of account}]
+ 4: a number of sheets (ticket or stamps etc.) bound together on
+    one edge; "he bought a book of stamps"
+ 5: a compilation of the known facts regarding something or
+    someone; "Al Smith used to say, `Let's look at the
+    record'"; "his name is in all the recordbooks" [syn: {record},
+    {record book}]
+ 6: a major division of a long written composition; "the book of
+    Isaiah"
+ 7: a written version of a play or other dramatic composition;
+    used in preparing for a performance [syn: {script}, {playscript}]
+ 8: a collection of rules or prescribed standards on the basis
+    of which decisions are made; "they run things by the book
+    around here" [syn: {rule book}]
+ 9: the sacred writings of Islam revealed by God to the prophet
+    Muhammad during his life at Mecca and Medina [syn: {Koran},
+    {Quran}, {al-Qur'an}]
+ 10: the sacred writings of the Christian religions; "he went to
+    carry the Word to the heathen" [syn: {Bible}, {Christian
+    Bible}, {Good Book}, {Holy Scripture}, {Holy Writ}, {Scripture},
+    {Word of God}, {Word}]
+
+ Verb
+ 1: record a charge in a police register; "The policeman booked
+    her when she tried to solicit a man"
+ 2: arrange for and reserve (something for someone else) in
+    advance; "reserve me a seat on a flight"; "The agent
+    booked tickets to the show for the whole family"; "please
+    hold a table at Maxim's" [syn: {reserve}, {hold}]
+ 3: engage for a performance; "Her agent had booked her for
+    several concerts in Tokyo"
+ 4: register in a hotel booker
+
+ 
+ 
+fire hydrant
+
+ Noun
+ 1: an upright hydrant for drawing water to use in fighting a
+    fire [syn: {fireplug}, {plug}]
+
+ 
+ 
+commercial
+
+ Adjective
+ 1: connected with or engaged in or sponsored by or used in
+    commerce or commercial enterprises; "commercial
+    trucker"; "commercial TV"; "commercial diamonds" [ant:
+    {noncommercial}]
+ 2: of or relating to commercialism; "a commercial attache";
+    "commercial paper"; "commercial law"
+ 3: of the kind or quality used in commerce; average or
+    inferior; "commercial grade of beef"; "commercial oxalic
+    acid"
+
+ Noun
+ 1: a commercially sponsored ad on radio or television [syn: {commercial
+    message}]
+
+ 
+ 
+software
+
+ Noun
+ 1: (computer science) written programs or procedures or rules
+    and associated documentation pertaining to the operation
+    of a computer system and that are stored in read/write
+    memory; "the market for software is expected to expand"
+    [syn: {software system}, {software package}, {package}]
+    [ant: {hardware}]
+
+ 
+ 
+potato
+
+ Noun
+ 1: an edible tuber native to South America; a staple food of
+    Ireland [syn: {white potato}, {Irish potato}, {murphy},
+    {spud}, {tater}]
+ 2: annual native to South America having underground stolons
+    bearing edible starchy tubers; widely cultivated as a
+    garden vegetable; vines are poisonous [syn: {white potato},
+    {white potato vine}, {Solanum tuberosum}]
+    [also: {potatoes} (pl)]
+ 
+
+ 
+simile
+
+ Noun
+ 1: a figure of speech that expresses a resemblance between
+    things of different kinds (usually formed with `like' or
+    `as')
 
