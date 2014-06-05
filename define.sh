@@ -30,7 +30,7 @@ echo ' ' >>defsout.colored
 #Print the word being defined to the file.
 echo $line >>defsout.colored
 #Print the definition of that word to the file.
-sh getdef.sh "$line" >>defsout.colored
+./getdef.sh "$line" >>defsout.colored
 
 done
 
